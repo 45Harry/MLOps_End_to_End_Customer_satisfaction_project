@@ -25,7 +25,7 @@ The goal of this project is to build a robust, modular, and production-ready mac
 
 1. **Clone the repository:**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/45Harry/MLOps_End_to_End_Customer_satisfaction_project
    cd MLops
    ```
 
